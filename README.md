@@ -1,5 +1,10 @@
 # Orpheus-Leap-Micro
 
-The people @ Hack Club asked me to make an arduino based PCB for their Summer Of Making. Basically, they are giving out $50,000 worth of hardware grants to high schoolers across the country. 
+For the Summer of 2020, Hack Club has been hosting *Summer of Making*, 3 months of fun, hardware hacking! Partnered with Github, they are giving out $50,000 worth of hardware grants, hosting Show and Tells, and more!
 
-The mascot of SOM (Summer Of Making) is Orpheus, a dinosaur. 
+With that said, to further rep and hype up Summer Of Making, I was asked to design a general-purpose Arduino PCB that can be distributed like stickers. This is the Github Repo for the Gerber, Eagle, and documentation for the board.
+
+##Design
+
+
+
