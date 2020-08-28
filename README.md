@@ -4,7 +4,8 @@ For the Summer of 2020, Hack Club has been hosting *Summer of Making*, 3 months 
 
 With that said, to further rep and hype up Summer Of Making, I was asked to design a general-purpose Arduino PCB that can be distributed like stickers. This is the Github Repo for the Gerber, Eagle, and documentation for the board.
 
-## Design
+# Design
+The Orpheus Leap is based off of Arduino's Pro Micro design. Using the atmega32u4, the main features of Orpheus Leap are as follows:
 
-
+### Features  
 
