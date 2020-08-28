@@ -1,11 +1,14 @@
-# Orpheus-Leap-Micro
+# Orpheus Leap Micro
 
-For the Summer of 2020, Hack Club has been hosting *Summer of Making*, 3 months of fun, hardware hacking! Partnered with Github, they are giving out $50,000 worth of hardware grants, hosting Show and Tells, and more!
+<img src="http://cloud-jrox24mrn.vercel.app/orpheus_leap_micro_final.png" width= "500px">
 
-With that said, to further rep and hype up Summer Of Making, I was asked to design a general-purpose Arduino PCB that can be distributed like stickers. This is the Github Repo for the Gerber, Eagle, and documentation for the board.
+During the summer of 2020, Hack Club hosted [*Summer of Making*](https://summer.hackclub.com)! It was three months of non-stop hardware hacking! They partnered with GitHub, to give out $50,000 worth of hardware grants and help makers like me!
+
+With that said, to further rep and hype up Summer Of Making, I was asked to design a general-purpose Arduino PCB to commerate the event. This GitHub repo inculdes all the Gerber and Eagle files as well as documentation for the board.
 
 # Design
-The Orpheus Leap is based off of Arduino's Pro Micro design. Using the atmega32u4, the main features of Orpheus Leap are as follows:
+
+The Orpheus Leap is based off of Arduino's Pro Micro design. Using the ATmega32U4, the main features of Orpheus Leap are as follows:
 
 ### Features
 
@@ -28,5 +31,7 @@ The Orpheus Leap is based off of Arduino's Pro Micro design. Using the atmega32u
 * Built-in USB Support (no need for programmer)
 * Can act as USB device (keyboard, mouse, game controller, etc)
 
+<!-- # Photos -->
+<hr width="50%">
 
-## Photos
+**PCB designed by Kevin Yang, 2020. Supported by Hack Club & GitHub.**
