@@ -32,5 +32,6 @@ The Orpheus Leap is based off of Arduino's Pro Micro design. Using the ATmega32U
 * Can act as USB device (keyboard, mouse, game controller, etc)
 
 <!-- # Photos -->
+<hr width="50%">
 
-PCB designed by Kevin Yang, 2020. Supported by Hack Club & GitHub.
+**PCB designed by Kevin Yang, 2020. Supported by Hack Club & GitHub.**
