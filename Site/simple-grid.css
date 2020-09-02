@@ -45,6 +45,7 @@ body {
   left: 0;
   top: 0;
   font-size: 100%;
+  overflow: hidden;
 }
 
 /* ROOT FONT STYLES */
