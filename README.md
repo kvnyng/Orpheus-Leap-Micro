@@ -8,7 +8,7 @@ With that said, to further rep and hype up Summer Of Making, I was asked to desi
 
 # Design
 
-The Orpheus Leap is based off of Arduino's Pro Micro design. Using the ATmega32U4, the main features of Orpheus Leap are as follows:
+The Orpheus Leap is based off of the Arduino compatible Pro Micro design. Powered by the ATmega32U4, the main features of Orpheus Leap are as follows:
 
 ### Features
 
@@ -24,12 +24,14 @@ The Orpheus Leap is based off of Arduino's Pro Micro design. Using the ATmega32U
 
 **Power**
 * 5V Logic
-* 7-12V input range
+* 7-12V input range with VIN pin
 * 40 mA output per I/O pin
 
 **Miscellaneous**
 * Built-in USB Support (no need for programmer)
 * Can act as USB device (keyboard, mouse, game controller, etc)
+* A beautiful Orpheus shaped PCB
+* ICSP headers for ICSP programming
 
 <!-- # Photos -->
 <hr width="50%">
