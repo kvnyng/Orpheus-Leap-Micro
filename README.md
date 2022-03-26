@@ -4,7 +4,9 @@
 
 During the summer of 2020, Hack Club hosted [*Summer of Making*](https://summer.hackclub.com)! It was three months of non-stop hardware hacking! They partnered with GitHub, to give out $50,000 worth of hardware grants and help makers like me!
 
-With that said, to further rep and hype up Summer Of Making, I was asked to design a general-purpose Arduino PCB to commerate the event. This GitHub repo inculdes all the Gerber and Eagle files as well as documentation for the board.
+With that said, to further rep and hype up Summer Of Making, I was asked to design a general-purpose Arduino PCB to commerate the event. With gracious funding from Github and Adafruit, the Orpheus Leap was put into production and 500 were made, shipped, and received by all Summer of Making Hack Clubbers!
+
+This repo holds the Gerber, Eagle files, and documentation for the board. 
 
 # Design
 
